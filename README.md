@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Connor Morrison.
 #### About Me
-About Me
 
 Hi my name is Connor Morrison, I am currently 16 years old, living in North Yorkshire. I have big dreams of becoming a **Experienced Programmer** and I want to start my own developing business, I am currently familiar to html, CSS and a bit of JavaScript but I want to expand my skill-set to not only creating website but also becoming a software engineer and creating useful apps for others to use. I'm not the sort of person who dreams of having **Big Money** I just want a casual life and be semi-known for what I am wanting to do. I think that is all I have to say. ^^.:. Hi Everyone.
 
