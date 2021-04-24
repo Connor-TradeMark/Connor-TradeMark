@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mail@connorljm.xyz**
 
-- ⚡ Fun fact **I Like all thing agriculture.**
+- ⚡ Fun fact **I Like all things agriculture.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
